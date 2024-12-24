@@ -1,6 +1,6 @@
 # Human Cell Classification Model: Support Vector Machines (SVM)
 
-In this project, I utilized **Support Vector Machines (SVM)** to develop a predictive model for classifying human cell samples. The model identifies whether a given cell sample is **benign** or **malignant**, aiding in early detection and diagnosis. By effectively categorizing cells, this model contributes to improving medical decision-making and patient outcomes.
+In this project, I utilized **Support Vector Machines (SVM)** to develop a predictive model for classifying human cell samples. The model identifies whether a given cell sample is **benign** (non-cancerous) or **malignant** (cancerous), aiding in early detection and diagnosis. By effectively categorizing cells, this model contributes to improving medical decision-making and patient outcomes.
 
 ## Key Objectives:
 - **Classify human cell samples** as benign or malignant.
